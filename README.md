@@ -13,8 +13,6 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
-A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-
 ## Se preparando para o desafio
 
 Para esse desafio, além dos conceitos vistos em aula utilizaremos algumas coisa novas para deixar a nossa aplicação ainda melhor. Por isso, antes de ir diretamente para o código do desafio, explicaremos um pouquinho sobre Fake API com JSON Server.
